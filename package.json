@@ -1,0 +1,28 @@
+{
+  "name": "electron-menu-promise-delay-demo",
+  "version": "1.0.0",
+  "description": "Demo of delayed promise resolution in Electron menu item click handlers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enlight/electron-menu-promise-delay-demo.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/enlight/electron-menu-promise-delay-demo/issues"
+  },
+  "homepage": "https://github.com/enlight/electron-menu-promise-delay-demo",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.3"
+  }
+}
